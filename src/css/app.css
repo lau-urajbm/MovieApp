@@ -1,0 +1,27 @@
+.favorite-btn{
+    width: 30px;
+    height: 30px;
+    background: rgb(233, 229, 229);
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    border: none;
+
+}
+#root{
+    height: 100vh;
+}
+.app{
+    height: 100vh;
+    
+    
+}
+
+.ancho{
+    width: 100vw;
+}
+
